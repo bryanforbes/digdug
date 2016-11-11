@@ -28,5 +28,9 @@
     "browserstack",
     "testingbot"
   ],
-  "homepage": "https://github.com/theintern/digdug"
+  "homepage": "https://github.com/theintern/digdug",
+  "optionalDependencies": {
+    "@types/node": "6.0.46",
+    "dojo-typings": "1.11.5"
+  }
 }
